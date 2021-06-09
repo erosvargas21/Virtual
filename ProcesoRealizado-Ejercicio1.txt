@@ -1,0 +1,29 @@
+#INSTALACION DE MINITORCH
+Verificamos la version de Python:
+>>>python --version
+Creamos una carpeta "worskpace":
+>>> mkdir workspace
+Entramos a esa carpeta que acabamos de crear:
+>>> cd workspace
+Clonamos el git que tenga los "requiments" que nos solicitan:
+>>> git clone https://github.com/minitorch/Module-0
+Entramos a la carpeta "Module-0":
+>>> cd Module-0
+Creamos un entorno virutal:
+>>> python -m venv venv
+Activamos el entorno virtual:
+>>> source venv/bin/activate
+Ahora instalamos los paquetes requeridos:
+>>> python -m pip install -r requirements.txt
+>>> python -m pip install -r requirements.extra.txt
+>>> python -m pip install -Ue .
+Comprobamos ahora si tenemos instalado la libreria minitorch:
+>>> python
+>>> import minitorch
+Podremos observar que tendremos la libreria "minitorch" instalado
+
+#MLPrimer
+Realizamos los pasos enseñados de dicho apartado.
+
+
+
