@@ -1,5 +1,6 @@
-#INSTALACION DE MINITORCH
-Verificamos la version de Python:
+# INSTALACIÓN DE MINITORCH
+
+Verificamos la version de Python(requiere Python 3.6 o superior):
 >>>python --version
 Creamos una carpeta "worskpace":
 >>> mkdir workspace
@@ -20,10 +21,10 @@ Ahora instalamos los paquetes requeridos:
 Comprobamos ahora si tenemos instalado la libreria minitorch:
 >>> python
 >>> import minitorch
-Podremos observar que tendremos la libreria "minitorch" instalado
+Podremos observar que tendremos la libreria "minitorch" instalado.
 
-#MLPrimer
-Realizamos los pasos enseñados de dicho apartado.
+# ML Primer
+Resumen realizado en el PDF.
 
 
 
