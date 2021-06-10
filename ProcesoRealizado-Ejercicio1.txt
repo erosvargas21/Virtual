@@ -22,7 +22,7 @@ Comprobamos ahora si tenemos instalado la libreria minitorch:
 >>> python
 >>> import minitorch
 Podremos observar que tendremos la libreria "minitorch" instalado.
-Obs:Para dicha comprobación en mi replit, tiene que estar activado el entorno virtual "venv".
+Obs: Para dicha comprobación en mi replit, tiene que estar activado el entorno virtual "venv".
 
 # ML Primer
 Resumen realizado en el PDF.
