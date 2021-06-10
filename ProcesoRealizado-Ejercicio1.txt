@@ -1,4 +1,4 @@
-# INSTALACIÓN DE MINITORCH
+# Instación de MiniTorch
 
 Verificamos la version de Python(requiere Python 3.6 o superior):
 >>>python --version
